@@ -9,7 +9,7 @@ const FormSignUp = ({submitForm}) => {
     return (
         <div className="form-content-right">
             <form className="form" onSubmit={handleSubmit}>
-                <h1>Get Started with us today! Buddy-up with us by filling out the information below.</h1>
+                <h1>Get Started today! Buddy-up with us by filling out the information below.</h1>
                 <div className="form-inputs">
                     <label htmlFor="username" className="form-label">
                      Username   
